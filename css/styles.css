@@ -1,0 +1,151 @@
+
+body{
+    font-family: "pangolin";
+}
+#title
+{
+    background-color: aquamarine;
+    color: #fff;
+}
+.con
+{    padding: 3% 6%;
+    text-size-adjust: 5px;
+    font-family: "pangolin";
+}
+.pan
+{   margin: 2% 3% 0% 10%;   
+    padding-top: auto;
+    font-family: "pangolin";
+    font-size: 60px;
+}
+.navbar-brand{
+    font-family: "pangolin";
+    font-size: 30px;
+    font-weight: bold;
+}
+.s1{ padding: 0% 0% 10% 0%;
+    font-size: 80px;
+    margin-left: 7%;
+}
+.s2{ margin-top: 10% 3% 5% 30%;
+    width: 350px;
+    position: absolute;
+    left: 20%;
+    transform: rotate(25deg);
+}
+#features
+{   margin-top: 0%;
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+}
+.s3
+{   font-size: 150%;
+    text-align: center;
+    padding: 0% 5%;
+}
+h3{
+    font-weight: bold;
+    
+    color: black;
+}
+.fas
+{   margin-bottom: 1rem;
+    color: red;
+    font-weight: bold;
+}
+p{
+    color: grey;
+}
+.fas:hover
+{
+    color: rgb(81, 58, 133);
+}
+.nav-link
+{
+    font-size: 150%;
+    font-weight: bold;
+    color: rgb(20, 19, 117);
+}
+#testimonials
+{   text-align: center; 
+    background-color: paleturquoise;
+    color: #fff;
+}
+#press
+{
+    background-color: paleturquoise; 
+    padding-top: 1rem;
+    padding-bottom: 2rem;  
+    text-align: center;
+}
+.dog-img
+{   margin: 8% 0% 0% 0%;
+    width:15%;
+    border-radius: 50%;
+    
+}
+.img-dist
+{
+    margin: 1%;
+}
+.carousel-item
+{
+    padding: 5% 10% 5% 10%;
+}
+.c{
+    color: black;
+    text-align: center;
+}
+.card
+{   margin-right: 8%;
+    text-align: center;
+}
+#pricing
+{
+    padding: 100px 0px 100px 150px;
+}
+.bu
+{
+    width:100%
+}
+@media (max-width:770px)
+
+{.s1
+{
+    text-align: center;
+}
+.s2{
+    margin-top: 2rem;
+    position: static;
+    transform: rotate(0);
+}
+.con{
+    text-align: center;
+}
+}
+#cta
+{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 1% 20% 4%
+}
+.foot
+{   font-size: 65px;
+    color: #fff;
+    margin: 3rem;
+}
+.dist{
+    width: 200px;
+    height: 50px;
+    margin-right: 2%;
+}
+#footer
+{   background-color: aquamarine;
+    text-align: center;
+    padding-bottom:1%;
+}
+.mk
+{
+    padding: 1rem;
+}
